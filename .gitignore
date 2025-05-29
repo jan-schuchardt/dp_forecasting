@@ -1,0 +1,8 @@
+*egg-info*
+**pycache**
+**cpython**
+logs
+*lightning_logs*
+build
+preview*.png
+*.pq
